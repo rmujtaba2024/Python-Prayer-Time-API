@@ -3,9 +3,9 @@ Daily Prayer Time API
 It's an easy to use API to get today's (and tomorrow!) prayer time     
 Written in Python using _Flask, Beautiful Soup, and Google-Search-Python.  
 
-To Prinf Data in Python
-import requests   
-import json      
+To Print Data in Python:-      
+import requests     
+import json         
   
 url = "https://dailyprayer.rmujtaba.repl.co/api/usa"    
 response = requests.get(url)    
